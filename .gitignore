@@ -1,0 +1,11 @@
+# minted cache files
+_minted-*
+
+# latex cache
+*.aux
+*.toc
+*.log
+*.out
+
+# c++ link files
+*.o
